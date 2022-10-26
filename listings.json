@@ -1,0 +1,61 @@
+{
+    "listings":[
+        {
+            "name":"Comfort House",
+            "type":"rent",
+            "userRef":"ID OF A USER",
+            "bedrooms":2,
+            "bathrooms":2,
+            "parking":true,
+            "furnished":true,
+            "offer":true,
+            "regularPrice":2500,
+            "discountedPrice":2000,
+            "location":"Tashkent city Bunyodkor street 41",
+            "geolocation":{
+                "lat":"41.205590",
+                "lng":"-73.150530"
+            },
+            "imageUrls":[],
+            "timestamp":"00:00:00"
+        },
+        {
+            "name":"HI-TECH House",
+            "type":"sale",
+            "userRef":"ID OF A USER",
+            "bedrooms":4,
+            "bathrooms":3,
+            "parking":true,
+            "furnished":false,
+            "offer":false,
+            "regularPrice":82000,
+            "discountedPrice":78000,
+            "location":"Tashkent city A.Navoiy street 23",
+            "geolocation":{
+                "lat":"34.1851",
+                "lng":"-83.9252"
+            },
+            "imageUrls":[],
+            "timestamp":"00:00:00"
+        },
+        {
+            "name":"HI-TECH House",
+            "type":"sale",
+            "userRef":"ID OF A USER",
+            "bedrooms":5,
+            "bathrooms":2,
+            "parking":true,
+            "furnished":true,
+            "offer":false,
+            "regularPrice":94000,
+            "discountedPrice":88000,
+            "location":"Tashkent city Pushkin street 12/41",
+            "geolocation":{
+                "lat":"35.628690",
+                "lng":"-78.455520"
+            },
+            "imageUrls":[],
+            "timestamp":"00:00:00"
+        }
+    ]
+}
